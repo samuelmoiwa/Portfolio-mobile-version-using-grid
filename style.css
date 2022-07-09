@@ -26,7 +26,6 @@ body {
   background-color: #f7f7f9;
 }
 
-
 header {
   background-color: #fff;
   max-width: 375px;
@@ -49,12 +48,11 @@ header {
 }
 
 .logo-container {
-  padding: 58px 0px 0px 24px;
+  padding: 58px 0 0 24px;
 }
 
-
 .menu {
-  padding: 58px 24px 0px 0px;
+  padding: 58px 24px 0 0;
 }
 
 .ion-icon {
@@ -62,7 +60,6 @@ header {
   color: var(--menu-icon-color);
   padding: 8px;
   margin: 0 24px;
-  
 }
 
 .hero {
@@ -89,7 +86,6 @@ h2 {
   line-height: 24px;
   font-family: var(--font-family);
   font-weight: 400;
-  
 }
 
 .media_icons {
@@ -212,7 +208,6 @@ li {
   transition: 0.2s;
   border: none;
   color: #b7bcff;
-  
 }
 
 .btn-md {
@@ -276,7 +271,7 @@ li {
   color: #6070ff;
 }
 
-/*about section starts here*/
+/* about section starts here */
 
 .about {
   max-width: 375px;
@@ -293,7 +288,7 @@ li {
   font-size: 40px;
   color: var(--h2-color);
   line-height: 52px;
-  margin: 0px 24px 12px 12px;
+  margin: 0 24px 12px 12px;
   padding-top: 114px;
 }
 
